@@ -1,8 +1,0 @@
-data = input("Enter some data: ")
-
-file_content = ""
-file_content += data + "\n"        
-file_content += "Appended data\n" 
-
-print("\nFinal content of the file:")
-print(file_content)
